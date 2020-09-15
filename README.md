@@ -9,5 +9,5 @@ Predicted whether the review is positive negetive or neutral using tf-idf and Lo
 4. Integrate the model on Flask and deployed it on heroku
 
 # Website link
-[https://women-clothing-review.herokuapp.com/]
+https://women-clothing-review.herokuapp.com/
 
