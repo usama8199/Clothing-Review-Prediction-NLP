@@ -1,6 +1,6 @@
 # Clothing-Review-Prediction-NLP
 
-Predicted whether the review is positive negetive or neutral using tf-idf and Logistic regression after comparing various algorithm
+#### Predicted whether the review is positive negetive or neutral using tf-idf and Logistic regression after comparing various algorithm
 
 # Overview
 1. Cleaned the text data by removing stopwords and lemmatization
